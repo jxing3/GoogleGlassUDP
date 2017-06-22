@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">SoleSoundGlassUDP</string>
+    <string name="say_glasswaretemplate">SoleSoundGlassUDP</string>
+    <string name="stop">STOP</string>
+
+
+    <string name="graph1">Graph #1</string>
+    <string name="graph2">Graph #2</string>
+    <string name="graph3">Graph #3</string>
+    <string name="graph4">Graph #4</string>
+
+
+</resources>    
+    
